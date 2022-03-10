@@ -10,6 +10,11 @@
 }
 
 
+.galleryName
+{
+    text-shadow: 5px 5px red;
+}
+
 /* Weasel css section*/
 .weaselInfo
 {
